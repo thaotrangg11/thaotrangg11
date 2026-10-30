@@ -1,0 +1,3 @@
+# Cloudflare Python Workers dùng Pyodide — không pip install được package native.
+# Chỉ cần requests (đã có sẵn trong runtime) và pyodide-http cho fetch.
+pyodide-http==0.2.1
